@@ -1,4 +1,6 @@
 
+https://dev.azure.com/oyetorostevan/Java_Pipeline/_apis/build/status/Stephvan.pipelines-java?branchName=master
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
